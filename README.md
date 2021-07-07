@@ -1,2 +1,2 @@
 # WasteSorting
-### Submitted WWDC21 Swift Student Challenge
+### Submitted WWDC21 Swift Student Challenge(rejected)
